@@ -1,0 +1,14 @@
+###Git Commands
+
+1.git config --global user.email "your email address"
+2.git config --global user.name "your name "
+3.git config --list
+4.git init
+5.echo "f1 v1" >> f1
+6.cat f1
+7.git status
+8.git add f1
+9.git diff
+10.git commit -m "com1"
+11.git diff --cached
+12.git log --oneline --decorate
